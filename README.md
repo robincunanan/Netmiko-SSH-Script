@@ -14,7 +14,7 @@ The following software is required:
 3. [Netmiko](https://pypi.org/project/netmiko/)
 4. [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
-The following network platforms that is tested with Netmiko can be found on[Pynet](https://pynet.twb-tech.com/blog/automation/netmiko.html).
+The following network platforms that is tested with Netmiko can be found on [Pynet](https://pynet.twb-tech.com/blog/automation/netmiko.html).
 
 ## Running
 
