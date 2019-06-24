@@ -18,7 +18,7 @@ The following network platforms that is tested with Netmiko can be found on [Pyn
 
 ## Running
 
-1. Setup network topology between machines and network devices.
+1. Setup network topology between local machines and network devices.
 2. Setup SSH on network platforms with PuTTY. Guide by [NHGainesville](https://youtu.be/3v3Iw87vEQ8).
 3. Verify devices can ping each other and if you're able to SSH through network device. Turn off firewall if necessary. 
 4. Once installed you can run the program with the following command:
