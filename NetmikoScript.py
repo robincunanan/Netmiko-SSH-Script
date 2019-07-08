@@ -9,7 +9,7 @@ iosv_l3 = { #Login information for Router 1
 
 net_connect = ConnectHandler(**iosv_l3)
 #net_connect.find_prompt()
-output = net_connect.send_command('show ip int brief')
+output = net_connect.send_command('show ip int brief') #sends commands to router
 route = net_connect.send_command('show ip route')
 print('THIS IS ROUTER 1')
 print(route, output)
